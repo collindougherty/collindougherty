@@ -15,7 +15,7 @@ Who knows where my interests will lead me next!
 
 - :pencil2: I’m currently working on ... [Starting a new website!](https://huskerstats.substack.com)
 - :books: I'm currently reading ... Market Wizards
-- desktop_computer: Learn more about me [here!](https://collindougherty.com/)
+- :desktop_computer: Learn more about me [here!](https://collindougherty.com/)
 
 <a href="https://www.linkedin.com/in/collin-dougherty/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:collindougherty99@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
