@@ -1,7 +1,7 @@
 <h2 align="center"> Hi👋, I'm Collin Dougherty!</h2>
 <h6 align="center">:crystal_ball: Machine Learning | :moneybag: Markets | :football: Sports | :test_tube: Research</h6>
 
-I graduated from the :red_circle:University of Nebraska-Lincoln:corn: in 2022 with degrees in Mathematics:heavy_division_sign: and Psychology:brain:. I am particularly interested in the ways in which Statistics and Data Science intersect with the real world.
+I graduated from the :red_circle:University of Nebraska-Lincoln:corn: in 2022 with degrees in Mathematics and Psychology. I am particularly interested in the ways in which Statistics and Data Science intersect with the real world.
 
 You can find me at my day job with the University of Nebraska Medical Center (UNMC), where I work as a Research Data Analyst in Surgical Oncology.
 
