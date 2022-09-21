@@ -5,9 +5,9 @@ I graduated from the :red_circle:University of Nebraska-Lincoln:corn: in 2022 wi
 
 You can find me at my day job with the University of Nebraska Medical Center (UNMC), where I work as a Research Data Analyst in Surgical Oncology.
 
-By night, I run machine learning models predicting college football games, basketball games, and stock / crypto markets.
+By night, I run machine learning models predicting college football games, basketball games, and financial markets.
 
-In my free time, I follow macroeconomics and markets quite closely, and operate as a discretionary trader. I'd like to think I'm getting pretty good!
+In my free time, I follow macroeconomics and markets quite closely, and operate as a discretionary trader. 
 
 In the past, I have interned for the Huskers Sports Analytics Department and Nebraska Athletic Performance Lab, lending support primarily to baseball, but also to volleyball, tennis and softball.
 
