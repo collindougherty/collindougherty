@@ -13,7 +13,7 @@ In the past, I have interned for the Huskers Sports Analytics Department and Neb
 
 Who knows where my interests will lead me next!
 
-- :pencil2: I’m currently working on ... [Starting a new website!](https://huskerstats.substack.com)
+- :pencil2: I’m currently working on ... [My website](https://collindougherty.com)
 - :books: I'm currently reading ... Market Wizards
 - :desktop_computer: Learn more about me [here!](https://collindougherty.com/)
 
