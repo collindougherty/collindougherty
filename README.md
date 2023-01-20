@@ -29,7 +29,7 @@ Who knows where my interests will lead me next!
 <img align="left" alt="SPSS" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nZx3Oh3-r76Mnn5FNZHj8I97I7Vue1JF1mDUbXMVHQ&s" />
 <img align="left" alt="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="SAS" width="40px" src="https://en.wikipedia.org/wiki/SAS_%28software%29#/media/File:স্যাস_লোগো.png" />
+<img align="left" alt="SAS" width="40px" src="[https://en.wikipedia.org/wiki/SAS_%28software%29#/media/File:স্যাস_লোগো.png](https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg)" />
 </p>
 
 
