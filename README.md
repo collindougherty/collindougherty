@@ -1,21 +1,18 @@
-<h2 align="center"> Hi👋, I'm Collin Dougherty!</h2>
+<h2 align="center"> Hi👋, I'm Collin Dougherty</h2>
 <h6 align="center">:crystal_ball: Machine Learning | :moneybag: Markets | :football: Sports | :test_tube: Research</h6>
 
-I am currently pursuing a Masters in Mathematics at the University of Nebraska-Omaha, concentrating on Data Science. I graduated from the :red_circle:University of Nebraska-Lincoln:corn: in 2022 with degrees in Mathematics and Psychology. I am particularly interested in the ways in which Statistics and Data Science intersect with the real world.
+I am currently pursuing a M.S. in Mathematics at the University of Nebraska-Omaha, concentrating on Data Science. I graduated from the :red_circle:University of Nebraska-Lincoln:corn: in 2022 with degrees in Mathematics and Psychology. I am particularly interested in the ways in which Statistics and Data Science intersect with the real world.
 
 You can find me at my day job with the University of Nebraska Medical Center (UNMC), where I work as a Research Data Analyst in Surgical Oncology.
 
 By night, I run machine learning models predicting college football games, basketball games, and financial markets.
 
-In my free time, I follow macroeconomics and markets quite closely, and operate as a discretionary trader. I am currently working to automate my entire system.
-
 In the past, I have interned for the Huskers Sports Analytics Department and Nebraska Athletic Performance Lab, lending support primarily to baseball, but also to volleyball, tennis and softball.
 
-Who knows where my interests will lead me next!
-
-- :pencil2: I’m currently working on ... [My (new - give it time) website](https://huskerstats.com)
+- :pencil2: I’m currently working on ... [My new Huskers Analytics website.](https://huskerstats.com)
+- :pencil2: I'm also working on ... [A professional contracting site.](https://databased.us)
 - :books: I'm currently reading ... A Brave New World
-- :desktop_computer: Learn more about me [here!](https://collindougherty.com/)
+- :desktop_computer: Learn more about me [here.](https://collindougherty.com/)
 
 <a href="https://www.linkedin.com/in/collin-dougherty/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:collindougherty99@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
