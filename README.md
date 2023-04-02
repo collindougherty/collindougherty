@@ -10,7 +10,6 @@ By night, I run machine learning models predicting college football games, baske
 In the past, I have interned for the Huskers Sports Analytics Department and Nebraska Athletic Performance Lab, lending support primarily to baseball, but also to volleyball, tennis and softball.
 
 - :pencil2: I’m currently working on ... [My new Huskers Analytics website.](https://huskerstats.com)
-- :pencil2: I'm also working on ... [A professional contracting site.](https://databased.us)
 - :books: I'm currently reading ... A Brave New World
 - :desktop_computer: Learn more about me [here.](https://collindougherty.com/)
 
