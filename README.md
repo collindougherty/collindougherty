@@ -9,8 +9,8 @@ By night, I run machine learning models predicting college football games, baske
 
 In the past, I have interned for the Huskers Sports Analytics Department and Nebraska Athletic Performance Lab, lending support primarily to baseball, but also to volleyball, tennis and softball.
 
-- :pencil2: I’m currently working on ... [My new Huskers Analytics website.](https://huskerstats.com)
-- :books: I'm currently reading ... A Brave New World
+- :pencil2: I’m currently working on ... [developing open source software to aid in cancer research.](https://github.com/collindougherty/pipeline)
+- :books: I'm currently reading ... Zero to One by Peter Thiele
 - :desktop_computer: Learn more about me [here.](https://collindougherty.com/)
 
 <a href="https://www.linkedin.com/in/collin-dougherty/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
